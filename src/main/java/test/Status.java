@@ -1,0 +1,5 @@
+package test;
+
+public enum Status {
+    USER_NOT_AUTHORIZED,INVALID_AMOUNT,INSUFFICIENT_BALANCE
+}
