@@ -18,6 +18,8 @@ public class TreeSetTest {
         integerSet.forEach(System.out::println);
 
 
+        TreeMap<String,Integer> treeMap = new TreeMap<>();
+
     }
     static class MyComparator implements Comparator<Integer>{
 
